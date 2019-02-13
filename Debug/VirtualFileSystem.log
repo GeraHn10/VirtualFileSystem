@@ -1,0 +1,4 @@
+﻿  VirtualFileS.cpp
+c:\users\gerardo\source\repos\virtualfilesystem\virtualfilesystem\virtualfiles.cpp(497): warning C4101: 'ocupados': variable local sin referencia
+c:\users\gerardo\source\repos\virtualfilesystem\virtualfilesystem\virtualfiles.cpp(138): warning C4715: 'vfs::diskInfo': no todas las rutas de acceso de control devuelven un valor
+  VirtualFileSystem.vcxproj -> C:\Users\Gerardo\source\repos\VirtualFileSystem\Debug\VirtualFileSystem.exe
